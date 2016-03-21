@@ -13,6 +13,7 @@ http://carborane3.github.io/FlMMLonHTML5/
  * FMチャンネルだけ随分音量が違う。v8 -> v12ぐらいにするとちょうどいい。
   * 音量の解釈が違う？変換テーブルが必要かも。
   * 内部のFMGenの影響か？
+ * flmml workerは実行パスに置く必要がある。
 
 # 雰囲気
 
